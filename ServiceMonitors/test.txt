@@ -1,0 +1,2 @@
+Name:: ,rockme,1
+Ping: ,192.168.2.46,Maintenance: ,false,0
